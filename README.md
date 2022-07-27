@@ -11,7 +11,7 @@
 
 ![AmitRohan's github stats](https://github-readme-stats.vercel.app/api?username=AmitRohan&show_icons=true&theme=dracula)
 
-[![Presto Mario](https://github-readme-stats.vercel.app/api/pin/?username=AmitRohan&repo=presto-maro)](https://github.com/AmitRohan/presto_mario)
+[![Presto Mario](https://github-readme-stats.vercel.app/api/pin/?username=AmitRohan&repo=presto-maro)](https://github.com/AmitRohan/presto-mario)
 
 [![Presto-Resume](https://github-readme-stats.vercel.app/api/pin/?username=AmitRohan&repo=resume)](https://github.com/AmitRohan/resume)
 
