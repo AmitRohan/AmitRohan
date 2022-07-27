@@ -11,9 +11,9 @@
 
 ![AmitRohan's github stats](https://github-readme-stats.vercel.app/api?username=AmitRohan&show_icons=true&theme=dracula)
 
-[![Flutter Dojo](https://github-readme-stats.vercel.app/api/pin/?username=AmitRohan&repo=presto-maro)](https://github.com/AmitRohan/presto_mario)
+[![Presto Mario](https://github-readme-stats.vercel.app/api/pin/?username=AmitRohan&repo=presto-maro)](https://github.com/AmitRohan/presto_mario)
 
-[![AndroidHeroes](https://github-readme-stats.vercel.app/api/pin/?username=AmitRohan&repo=presto-mario)](https://github.com/AmitRohan/presto-mario)
+[![Presto-Resume](https://github-readme-stats.vercel.app/api/pin/?username=AmitRohan&repo=resume)](https://github.com/AmitRohan/resume)
 
 <!--
 Here are some ideas to get you started:
